@@ -1,5 +1,5 @@
 {
-  "name": "ovt-lodash",
+  "name": "ovt-plugin-lodash",
   "version": "1.0.0",
   "description": "ovt with lodash functionalities",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baijijs/ovt-lodash.git"
+    "url": "git+https://github.com/baijijs/ovt-plugin-lodash.git"
   },
   "keywords": [
     "ovt",
@@ -17,9 +17,9 @@
   "author": "Felix liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/baijijs/ovt-lodash/issues"
+    "url": "https://github.com/baijijs/ovt-plugin-lodash/issues"
   },
-  "homepage": "https://github.com/baijijs/ovt-lodash#readme",
+  "homepage": "https://github.com/baijijs/ovt-plugin-lodash#readme",
   "dependencies": {
     "lodash": "^4.8.2"
   }
