@@ -1,4 +1,7 @@
-# Ovt Plugin for Lodash
+Ovt Plugin for [lodash](https://github.com/lodash/lodash/)
+==========================================================
+
+[![Build Status](https://travis-ci.org/lyfeyaj/ovt-plugin-lodash.svg?branch=master)](https://travis-ci.org/lyfeyaj/ovt-plugin-lodash)
 
 Extended methods:
 
