@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baijijs/ovt-plugin-lodash.git"
+    "url": "git+https://github.com/lyfeyaj/ovt-plugin-lodash.git"
   },
   "keywords": [
     "ovt",
@@ -17,9 +17,9 @@
   "author": "Felix liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/baijijs/ovt-plugin-lodash/issues"
+    "url": "https://github.com/lyfeyaj/ovt-plugin-lodash/issues"
   },
-  "homepage": "https://github.com/baijijs/ovt-plugin-lodash#readme",
+  "homepage": "https://github.com/lyfeyaj/ovt-plugin-lodash#readme",
   "dependencies": {
     "lodash": "^4.17.2"
   },
