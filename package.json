@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/lyfeyaj/ovt-plugin-lodash#readme",
   "dependencies": {
-    "lodash": "^4.17.2"
+    "lodash": "^4.17.4"
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.2.0",
-    "ovt": "^1.1.0"
+    "mocha": "^3.5.3",
+    "ovt": "^1.1.11"
   }
 }
